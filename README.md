@@ -1,2 +1,2 @@
-# Mapping_Earthquakes
-Module 13 - Leaflet.js, Mapbox, API
+# Mapping Earthquakes
+### This assignment is to assist in mapping earthquakes from the last seven days. The javascript and css files build a webpage that displays three distict world map options with three optional overlays to display all earthquakes, major earthquakes (4.5+ magnitude), and the tectonic plate locations. The earthquakes points are distinguished by circle markers and correlate with magnitude by both color and radius size. 
